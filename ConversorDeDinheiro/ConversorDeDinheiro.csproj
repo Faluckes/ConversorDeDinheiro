@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ByteBank.Modelos">
+      <HintPath>C:\Users\Faluckes\Downloads\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\AluraStudio-CSharpPT5-b0bdb1e09d442e7dd25ca018d02d2ad5ce9c4405\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
